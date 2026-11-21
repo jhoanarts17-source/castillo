@@ -1,0 +1,5104 @@
+{
+  "entrySpaceId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+  "objects": {
+    "03c21a24-6ef8-4097-8ca2-fdb6ae9687aa": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 2.2,
+        "height": 1.2,
+        "depth": 1.6
+      },
+      "id": "03c21a24-6ef8-4097-8ca2-fdb6ae9687aa",
+      "material": {
+        "type": "basic",
+        "color": "#2f2941",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Roca soporte 3",
+      "order": 10.347879013398854,
+      "parentId": "51d3c8ac-2590-4d99-b5a5-018ff6bff2c0",
+      "position": [
+        1.8,
+        -1,
+        14.6
+      ],
+      "rotation": [
+        0,
+        0.13052619222005157,
+        0,
+        0.9914448613738104
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "0b4df97b-f894-4423-947e-b8000b63cb8c": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 2.2,
+        "height": 1.5,
+        "depth": 1.6
+      },
+      "id": "0b4df97b-f894-4423-947e-b8000b63cb8c",
+      "material": {
+        "type": "basic",
+        "color": "#2f2941",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Roca soporte 2",
+      "order": 9.347879013398854,
+      "parentId": "51d3c8ac-2590-4d99-b5a5-018ff6bff2c0",
+      "position": [
+        1.2,
+        -0.85,
+        11.6
+      ],
+      "rotation": [
+        0,
+        -0.15643446504023087,
+        0,
+        0.9876883405951378
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "0eb3b4c0-a05e-419e-bd68-4e218b35ac27": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        },
+        "a90ff800-32db-4a7b-a8a6-143c5d4644df": {
+          "id": "a90ff800-32db-4a7b-a8a6-143c5d4644df",
+          "name": "position-animation",
+          "parameters": {
+            "autoFrom": true,
+            "duration": 12000,
+            "fromZ": -14,
+            "toZ": 14
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "id": "0eb3b4c0-a05e-419e-bd68-4e218b35ac27",
+      "material": {
+        "type": "basic",
+        "color": "#7fe3ff",
+        "roughness": 0.1,
+        "metalness": 0.4
+      },
+      "name": "Corriente 2",
+      "order": 33.672017908600196,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        2.6,
+        -1.44,
+        2
+      ],
+      "rotation": [
+        -0.7071067811865475,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "scale": [
+        0.3,
+        4,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "142d10f4-6bd2-4f73-81d6-314701451e12": {
+      "components": {},
+      "geometry": null,
+      "id": "142d10f4-6bd2-4f73-81d6-314701451e12",
+      "light": {
+        "type": "point",
+        "intensity": 2.5,
+        "color": "#8b5cf6"
+      },
+      "material": null,
+      "name": "Luz del portón",
+      "order": 40.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        0,
+        2.5,
+        -4.2
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "148b26b8-7a0d-4f5b-9b3a-1a703444e577": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.48,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 2.7,
+        "height": 0.4,
+        "depth": 1.7
+      },
+      "id": "148b26b8-7a0d-4f5b-9b3a-1a703444e577",
+      "material": {
+        "type": "basic",
+        "color": "#4a4364",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Losa camino 7",
+      "order": 6.347879013398854,
+      "parentId": "51d3c8ac-2590-4d99-b5a5-018ff6bff2c0",
+      "position": [
+        1.95,
+        -0.72,
+        15.4
+      ],
+      "rotation": [
+        0,
+        0.06104853953485687,
+        0,
+        0.9981347984218669
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "155302d5-5f8c-42c5-b145-99dd642c2c05": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.436,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "cone",
+        "radius": 0.5,
+        "height": 1
+      },
+      "id": "155302d5-5f8c-42c5-b145-99dd642c2c05",
+      "material": {
+        "type": "basic",
+        "color": "#c9a86a",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Aguja T-D",
+      "order": 21.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        3.1,
+        11.15,
+        -11.1
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.32,
+        0.9,
+        0.32
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "1963150a-ba8d-4c08-9366-8ee74b6ae626": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 1,
+        "height": 1,
+        "depth": 1
+      },
+      "id": "1963150a-ba8d-4c08-9366-8ee74b6ae626",
+      "material": {
+        "type": "basic",
+        "color": "#554d70",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Dovela A5",
+      "order": 16.672017908600196,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        0,
+        0.2,
+        -0.68
+      ],
+      "rotation": [
+        -0.3420201433256687,
+        0,
+        0,
+        0.9396926207859084
+      ],
+      "scale": [
+        2.5,
+        0.5,
+        0.65
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "1992f866-afad-446c-8931-2573d194cc1d": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.397,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 1,
+        "height": 1,
+        "depth": 1
+      },
+      "id": "1992f866-afad-446c-8931-2573d194cc1d",
+      "material": {
+        "type": "basic",
+        "color": "#453e5c",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Merlón 3",
+      "order": 30.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        1.4,
+        3.475,
+        -4.9
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.4,
+        0.55,
+        0.45
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "1a74c972-e3fa-47ba-ae63-e35a776a478d": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.16,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 2.7,
+        "height": 0.42,
+        "depth": 1.7
+      },
+      "id": "1a74c972-e3fa-47ba-ae63-e35a776a478d",
+      "material": {
+        "type": "basic",
+        "color": "#4a4364",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Losa camino 3",
+      "order": 2.3478790133988547,
+      "parentId": "51d3c8ac-2590-4d99-b5a5-018ff6bff2c0",
+      "position": [
+        0.65,
+        0.3,
+        9.4
+      ],
+      "rotation": [
+        0,
+        0.052335956242943835,
+        0,
+        0.9986295347545738
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "1b5afcd8-1ade-4aa3-981d-8f3ded768d1f": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.08,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 1,
+        "height": 1,
+        "depth": 1
+      },
+      "id": "1b5afcd8-1ade-4aa3-981d-8f3ded768d1f",
+      "material": {
+        "type": "basic",
+        "color": "#3a3450",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Torreón — cuerpo bajo",
+      "order": 4.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        0,
+        3.1,
+        -8
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        3.6,
+        5,
+        3.6
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "1ed3925c-0cbb-4c79-9109-5d09560407c7": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 1,
+        "height": 1,
+        "depth": 1
+      },
+      "id": "1ed3925c-0cbb-4c79-9109-5d09560407c7",
+      "material": {
+        "type": "basic",
+        "color": "#554d70",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Dovela A2",
+      "order": 13.672017908600196,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        0,
+        0.2,
+        0.68
+      ],
+      "rotation": [
+        0.3420201433256687,
+        0,
+        0,
+        0.9396926207859084
+      ],
+      "scale": [
+        2.5,
+        0.5,
+        0.65
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "1ed7b274-ca1c-4425-be91-2ee133584c0a": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 1,
+        "height": 1,
+        "depth": 1
+      },
+      "id": "1ed7b274-ca1c-4425-be91-2ee133584c0a",
+      "material": {
+        "type": "basic",
+        "color": "#554d70",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Dovela B5",
+      "order": 22.672017908600196,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        0,
+        0.2,
+        1.82
+      ],
+      "rotation": [
+        -0.3420201433256687,
+        0,
+        0,
+        0.9396926207859084
+      ],
+      "scale": [
+        2.5,
+        0.5,
+        0.65
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "1f47ca4f-9a23-46bd-a150-5bf3d7849dae": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.55,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 1,
+        "height": 1,
+        "depth": 1
+      },
+      "id": "1f47ca4f-9a23-46bd-a150-5bf3d7849dae",
+      "material": {
+        "type": "basic",
+        "color": "#8b5cf6",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Ventana alta derecha",
+      "order": 39.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        0.75,
+        6.9,
+        -6.44
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.34,
+        1.5,
+        0.1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "2085b68d-b24e-4e77-afe8-9be2b3f14288": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        },
+        "afde0bec-8d40-4b1b-8a0f-c0b8afc3281d": {
+          "id": "afde0bec-8d40-4b1b-8a0f-c0b8afc3281d",
+          "name": "position-animation",
+          "parameters": {
+            "autoFrom": true,
+            "duration": 15000,
+            "fromZ": -14,
+            "toZ": 14
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "id": "2085b68d-b24e-4e77-afe8-9be2b3f14288",
+      "material": {
+        "type": "basic",
+        "color": "#4cc4ee",
+        "roughness": 0.1,
+        "metalness": 0.4
+      },
+      "name": "Corriente 3",
+      "order": 34.672017908600196,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        -1.2,
+        -1.44,
+        8
+      ],
+      "rotation": [
+        -0.7071067811865475,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "scale": [
+        0.35,
+        4.5,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "2087358a-4b88-4548-883c-26d0cc9a7482": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.436,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "cone",
+        "radius": 0.5,
+        "height": 1
+      },
+      "id": "2087358a-4b88-4548-883c-26d0cc9a7482",
+      "material": {
+        "type": "basic",
+        "color": "#c9a86a",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Aguja T-I",
+      "order": 23.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        -3.1,
+        11.15,
+        -11.1
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.32,
+        0.9,
+        0.32
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "218495c1-c31c-4af0-b96e-67c9143f51b7": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.4,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "cylinder",
+        "radius": 0.4,
+        "height": 1
+      },
+      "id": "218495c1-c31c-4af0-b96e-67c9143f51b7",
+      "material": {
+        "type": "basic",
+        "color": "#443c5e",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Torre frontal derecha",
+      "order": 8.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        3.1,
+        4.1,
+        -4.9
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1.7,
+        7,
+        1.7
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "254beec8-cad4-426f-a61e-3e5d7565c06c": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 1,
+        "height": 1,
+        "depth": 1
+      },
+      "id": "254beec8-cad4-426f-a61e-3e5d7565c06c",
+      "material": {
+        "type": "basic",
+        "color": "#3a3450",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Muralla derecha",
+      "order": 27.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        3.1,
+        1.9,
+        -8
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.45,
+        2.6,
+        6.2
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "274a24fe-00e4-401a-a27b-bfcca13d1404": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.16,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 0.3,
+        "height": 1,
+        "depth": 10.5
+      },
+      "id": "274a24fe-00e4-401a-a27b-bfcca13d1404",
+      "material": {
+        "type": "basic",
+        "color": "#443c5e",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Puente — pretil derecho",
+      "order": 2.672017908600197,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        1.15,
+        1.7,
+        1.25
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "2778e00f-637e-4086-a683-73180e225996": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 1,
+        "height": 1,
+        "depth": 1
+      },
+      "id": "2778e00f-637e-4086-a683-73180e225996",
+      "material": {
+        "type": "basic",
+        "color": "#554d70",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Dovela A6",
+      "order": 17.672017908600196,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        0,
+        -0.21,
+        -0.97
+      ],
+      "rotation": [
+        -0.5591929034707469,
+        0,
+        0,
+        0.8290375725550416
+      ],
+      "scale": [
+        2.5,
+        0.5,
+        0.65
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "2ce91a37-fa78-43bc-9eaf-96f24b4663d2": {
+      "components": {
+        "52b2487c-c266-4d0f-9567-06dfd0e92f47": {
+          "id": "52b2487c-c266-4d0f-9567-06dfd0e92f47",
+          "name": "rio-fluido",
+          "parameters": {
+            "amplitud": 0.05,
+            "frecuencia": 1.3,
+            "velocidadArrastre": 0.14,
+            "velocidadOndulacion": 1
+          }
+        },
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "id": "2ce91a37-fa78-43bc-9eaf-96f24b4663d2",
+      "material": {
+        "type": "basic",
+        "color": "#1b4a66",
+        "roughness": 0.06,
+        "metalness": 0.35,
+        "opacity": 0.35,
+        "forceTransparent": true,
+        "depthWrite": false,
+        "inreMaterial": "Agua de río"
+      },
+      "name": "Río — superficie",
+      "order": 31.672017908600196,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        0,
+        -1.55,
+        1
+      ],
+      "rotation": [
+        -0.7071067811865475,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "scale": [
+        13,
+        28,
+        1
+      ],
+      "shadow": {
+        "castShadow": false,
+        "receiveShadow": true
+      }
+    },
+    "344f7ce6-4812-4edb-ad2f-10650a819f18": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.08,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 2.7,
+        "height": 0.4,
+        "depth": 1.7
+      },
+      "id": "344f7ce6-4812-4edb-ad2f-10650a819f18",
+      "material": {
+        "type": "basic",
+        "color": "#514a6b",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Losa camino 2",
+      "order": 1.3478790133988547,
+      "parentId": "51d3c8ac-2590-4d99-b5a5-018ff6bff2c0",
+      "position": [
+        0.3,
+        0.58,
+        7.9
+      ],
+      "rotation": [
+        0,
+        0.08715574274765817,
+        0,
+        0.9961946980917455
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "385b3b9d-366b-41c7-8a4f-732849ef10b6": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 1,
+        "height": 1,
+        "depth": 1
+      },
+      "id": "385b3b9d-366b-41c7-8a4f-732849ef10b6",
+      "material": {
+        "type": "basic",
+        "color": "#554d70",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Clave arco B",
+      "order": 21.672017908600196,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        0,
+        0.43,
+        2.28
+      ],
+      "rotation": [
+        -0.10452846326765347,
+        0,
+        0,
+        0.9945218953682733
+      ],
+      "scale": [
+        2.5,
+        0.5,
+        0.65
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "3ad7218f-227d-47a9-8d7b-fc39db8f7da5": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.436,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "cone",
+        "radius": 0.5,
+        "height": 1
+      },
+      "id": "3ad7218f-227d-47a9-8d7b-fc39db8f7da5",
+      "material": {
+        "type": "basic",
+        "color": "#c9a86a",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Aguja F-D",
+      "order": 20.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        3.1,
+        11.15,
+        -4.9
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.32,
+        0.9,
+        0.32
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "3cb4cf52-e5ac-4512-b8dc-a7d0793d12a1": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.436,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "cone",
+        "radius": 0.5,
+        "height": 1
+      },
+      "id": "3cb4cf52-e5ac-4512-b8dc-a7d0793d12a1",
+      "material": {
+        "type": "basic",
+        "color": "#c9a86a",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Aguja F-I",
+      "order": 22.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        -3.1,
+        11.15,
+        -4.9
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.32,
+        0.9,
+        0.32
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "3d447ffb-4b94-448b-8250-3d643f9cd338": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 1,
+        "height": 1,
+        "depth": 1
+      },
+      "id": "3d447ffb-4b94-448b-8250-3d643f9cd338",
+      "material": {
+        "type": "basic",
+        "color": "#554d70",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Dovela B2",
+      "order": 19.672017908600196,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        0,
+        0.2,
+        3.18
+      ],
+      "rotation": [
+        0.3420201433256687,
+        0,
+        0,
+        0.9396926207859084
+      ],
+      "scale": [
+        2.5,
+        0.5,
+        0.65
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "3ef0d55e-80f6-4921-9b05-fa7caba2e4a9": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.402,
+            "demora": 0.32,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 0.42,
+        "height": 0.4,
+        "depth": 0.6
+      },
+      "id": "3ef0d55e-80f6-4921-9b05-fa7caba2e4a9",
+      "material": {
+        "type": "basic",
+        "color": "#453e5c",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Merlón puente 2",
+      "order": 4.672017908600197,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        -1.15,
+        2.4,
+        1
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "40092147-6e62-4ac5-84d1-695d6a3faa56": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.567,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 0.8,
+        "height": 0.5,
+        "depth": 0.7
+      },
+      "id": "40092147-6e62-4ac5-84d1-695d6a3faa56",
+      "material": {
+        "type": "basic",
+        "color": "#5b5378",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Guijarro 1",
+      "order": 14.347879013398854,
+      "parentId": "51d3c8ac-2590-4d99-b5a5-018ff6bff2c0",
+      "position": [
+        -0.9,
+        0.75,
+        6.7
+      ],
+      "rotation": [
+        0.022624100235194084,
+        0.21525393508649943,
+        0.1020507213185927,
+        0.9709477554413933
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "42c11b90-faea-4c10-be5d-3f2f86512f9d": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.482,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 0.7,
+        "height": 0.4,
+        "depth": 0.6
+      },
+      "id": "42c11b90-faea-4c10-be5d-3f2f86512f9d",
+      "material": {
+        "type": "basic",
+        "color": "#5b5378",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Guijarro 6",
+      "order": 19.347879013398853,
+      "parentId": "51d3c8ac-2590-4d99-b5a5-018ff6bff2c0",
+      "position": [
+        -0.2,
+        -0.35,
+        12
+      ],
+      "rotation": [
+        -0.028821373640682654,
+        -0.29932140965351656,
+        0.0914097188357572,
+        0.9493262270931231
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "488cd253-6d57-4d7e-9d67-6a76ac570aa6": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 2.6,
+        "height": 0.4,
+        "depth": 1.7
+      },
+      "id": "488cd253-6d57-4d7e-9d67-6a76ac570aa6",
+      "material": {
+        "type": "basic",
+        "color": "#514a6b",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Losa camino 8",
+      "order": 7.347879013398854,
+      "parentId": "51d3c8ac-2590-4d99-b5a5-018ff6bff2c0",
+      "position": [
+        2.15,
+        -0.9,
+        16.9
+      ],
+      "rotation": [
+        0,
+        0.08715574274765817,
+        0,
+        0.9961946980917455
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "4cc0f650-fb2c-4356-a458-f4b1c9810f8f": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.552,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 0.8,
+        "height": 0.45,
+        "depth": 0.7
+      },
+      "id": "4cc0f650-fb2c-4356-a458-f4b1c9810f8f",
+      "material": {
+        "type": "basic",
+        "color": "#5b5378",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Guijarro 5",
+      "order": 18.347879013398853,
+      "parentId": "51d3c8ac-2590-4d99-b5a5-018ff6bff2c0",
+      "position": [
+        2.6,
+        -0.1,
+        11
+      ],
+      "rotation": [
+        -0.013310162676126874,
+        0.19034419425383411,
+        -0.06847485084868664,
+        0.9792359889651951
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "4ce34b29-1887-4b0f-a10a-c7d158e50706": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 0.9,
+        "height": 4,
+        "depth": 0.9
+      },
+      "id": "4ce34b29-1887-4b0f-a10a-c7d158e50706",
+      "material": {
+        "type": "basic",
+        "color": "#3a3450",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Torre puerta izquierda",
+      "order": 24.672017908600196,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        -1.55,
+        3.1,
+        5.9
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "4f0bd2bc-8cd1-430e-b1ce-5459bcd2e8dc": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 2.8,
+        "height": 2.2,
+        "depth": 0.8
+      },
+      "id": "4f0bd2bc-8cd1-430e-b1ce-5459bcd2e8dc",
+      "material": {
+        "type": "basic",
+        "color": "#3a3450",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Pila 1",
+      "order": 9.672017908600196,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        0,
+        -0.5,
+        -1.2
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "504414b0-016b-42fa-8a2a-cbec472cd232": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.4,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 2.7,
+        "height": 0.42,
+        "depth": 1.7
+      },
+      "id": "504414b0-016b-42fa-8a2a-cbec472cd232",
+      "material": {
+        "type": "basic",
+        "color": "#514a6b",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Losa camino 6",
+      "order": 5.347879013398854,
+      "parentId": "51d3c8ac-2590-4d99-b5a5-018ff6bff2c0",
+      "position": [
+        1.7,
+        -0.5,
+        13.9
+      ],
+      "rotation": [
+        0,
+        0.11320321376790672,
+        0,
+        0.9935718556765875
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "51d3c8ac-2590-4d99-b5a5-018ff6bff2c0": {
+      "components": {},
+      "geometry": null,
+      "id": "51d3c8ac-2590-4d99-b5a5-018ff6bff2c0",
+      "material": null,
+      "name": "Camino de roca",
+      "order": 37.672017908600196,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "5286e0bf-8892-4834-a1bb-005638aed80f": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.482,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 1,
+        "height": 1,
+        "depth": 1
+      },
+      "id": "5286e0bf-8892-4834-a1bb-005638aed80f",
+      "material": {
+        "type": "basic",
+        "color": "#8b5cf6",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Vitral izquierdo",
+      "order": 36.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        -1.05,
+        4.4,
+        -6.14
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.3,
+        1.3,
+        0.1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "52cc3e2b-bd9c-4ac8-a457-6bb04432f2dc": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.552,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 0.8,
+        "height": 0.45,
+        "depth": 0.7
+      },
+      "id": "52cc3e2b-bd9c-4ac8-a457-6bb04432f2dc",
+      "material": {
+        "type": "basic",
+        "color": "#5b5378",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Guijarro 7",
+      "order": 20.347879013398853,
+      "parentId": "51d3c8ac-2590-4d99-b5a5-018ff6bff2c0",
+      "position": [
+        3.3,
+        -0.6,
+        14.2
+      ],
+      "rotation": [
+        0.014768978407863832,
+        0.24147066249821028,
+        0.05923513700606283,
+        0.9684859291560907
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "53bb7e66-5c3e-4cd4-a176-8c51a082a621": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "cone",
+        "radius": 0.5,
+        "height": 1
+      },
+      "id": "53bb7e66-5c3e-4cd4-a176-8c51a082a621",
+      "material": {
+        "type": "basic",
+        "color": "#1e1730",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Chapitel T-D",
+      "order": 17.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        3.1,
+        9.4,
+        -11.1
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        2.6,
+        2.6,
+        2.6
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "547ba9ec-d44c-4f2f-a313-76c676037d07": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        },
+        "bc62fb4e-e923-4e47-95e3-fdfcf8214da6": {
+          "id": "bc62fb4e-e923-4e47-95e3-fdfcf8214da6",
+          "name": "position-animation",
+          "parameters": {
+            "autoFrom": true,
+            "duration": 11000,
+            "fromZ": -14,
+            "toZ": 14
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "id": "547ba9ec-d44c-4f2f-a313-76c676037d07",
+      "material": {
+        "type": "basic",
+        "color": "#6ddcff",
+        "roughness": 0.1,
+        "metalness": 0.4
+      },
+      "name": "Corriente 4",
+      "order": 35.672017908600196,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        4.2,
+        -1.44,
+        -11
+      ],
+      "rotation": [
+        -0.7071067811865475,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "scale": [
+        0.3,
+        4,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "54fd764a-a597-4cd1-bf46-8a3a541194a2": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "cylinder",
+        "radius": 0.4,
+        "height": 1
+      },
+      "id": "54fd764a-a597-4cd1-bf46-8a3a541194a2",
+      "material": {
+        "type": "basic",
+        "color": "#2a2438",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Corona torre T-D",
+      "order": 13.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        3.1,
+        7.85,
+        -11.1
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        2.2,
+        0.5,
+        2.2
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "5c16f1d3-0ee7-40c9-a644-f8ddadfba5b6": {
+      "components": {},
+      "geometry": null,
+      "id": "5c16f1d3-0ee7-40c9-a644-f8ddadfba5b6",
+      "light": {
+        "type": "ambient",
+        "intensity": 0.4,
+        "color": "#4a4270"
+      },
+      "material": null,
+      "name": "Luz ambiental",
+      "order": 1.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        10,
+        5,
+        5
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "5c272180-18ad-4d1c-a165-4216008b53a3": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 0.9,
+        "height": 4,
+        "depth": 0.9
+      },
+      "id": "5c272180-18ad-4d1c-a165-4216008b53a3",
+      "material": {
+        "type": "basic",
+        "color": "#3a3450",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Torre puerta derecha",
+      "order": 25.672017908600196,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        1.55,
+        3.1,
+        5.9
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "5e59d9d4-bf14-4d56-b12f-81b947b41287": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.16,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 1,
+        "height": 1,
+        "depth": 1
+      },
+      "id": "5e59d9d4-bf14-4d56-b12f-81b947b41287",
+      "material": {
+        "type": "basic",
+        "color": "#332e46",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Torreón — cuerpo alto",
+      "order": 5.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        0,
+        6.8,
+        -8
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        3,
+        2.4,
+        3
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "5f7d711a-78f4-47d5-b97e-1d04d2ed921e": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.397,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 1,
+        "height": 1,
+        "depth": 1
+      },
+      "id": "5f7d711a-78f4-47d5-b97e-1d04d2ed921e",
+      "material": {
+        "type": "basic",
+        "color": "#453e5c",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Merlón 4",
+      "order": 31.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        2.6,
+        3.475,
+        -4.9
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.4,
+        0.55,
+        0.45
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "6317cafd-26a2-4b73-b77e-381b51b9cf5f": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "cone",
+        "radius": 0.5,
+        "height": 1
+      },
+      "id": "6317cafd-26a2-4b73-b77e-381b51b9cf5f",
+      "material": {
+        "type": "basic",
+        "color": "#1e1730",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Chapitel F-D",
+      "order": 16.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        3.1,
+        9.4,
+        -4.9
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        2.6,
+        2.6,
+        2.6
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "65632ce6-232c-4c4d-9927-76b13d7acd1d": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 1,
+        "height": 1,
+        "depth": 1
+      },
+      "id": "65632ce6-232c-4c4d-9927-76b13d7acd1d",
+      "material": {
+        "type": "basic",
+        "color": "#140e20",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Portón",
+      "order": 32.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        0,
+        1.75,
+        -4.72
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1.5,
+        2.3,
+        0.3
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "65ecc677-1bed-43ca-99d1-5c3644a9d732": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 1,
+        "height": 1,
+        "depth": 1
+      },
+      "id": "65ecc677-1bed-43ca-99d1-5c3644a9d732",
+      "material": {
+        "type": "basic",
+        "color": "#554d70",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Dovela A3",
+      "order": 14.672017908600196,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        0,
+        0.43,
+        0.22
+      ],
+      "rotation": [
+        0.10452846326765347,
+        0,
+        0,
+        0.9945218953682733
+      ],
+      "scale": [
+        2.5,
+        0.5,
+        0.65
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "685e5736-903e-4e5b-9bde-b98ce6e60abd": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.397,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 1,
+        "height": 1,
+        "depth": 1
+      },
+      "id": "685e5736-903e-4e5b-9bde-b98ce6e60abd",
+      "material": {
+        "type": "basic",
+        "color": "#453e5c",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Merlón 2",
+      "order": 29.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        -1.4,
+        3.475,
+        -4.9
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.4,
+        0.55,
+        0.45
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "7897da1c-241c-41ad-81b2-a5868347da63": {
+      "components": {
+        "9a5e6731-430b-4df9-a10f-f2d81677addd": {
+          "id": "9a5e6731-430b-4df9-a10f-f2d81677addd",
+          "name": "position-animation",
+          "parameters": {
+            "autoFrom": true,
+            "duration": 9000,
+            "fromZ": -14,
+            "toZ": 14
+          }
+        },
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "id": "7897da1c-241c-41ad-81b2-a5868347da63",
+      "material": {
+        "type": "basic",
+        "color": "#5fd4ff",
+        "roughness": 0.1,
+        "metalness": 0.4
+      },
+      "name": "Corriente 1",
+      "order": 32.672017908600196,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        -3.2,
+        -1.44,
+        -6
+      ],
+      "rotation": [
+        -0.7071067811865475,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "scale": [
+        0.4,
+        5,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "79abfcc5-8e56-46ac-be5b-ef7f5eaf5f67": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.51,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 0.75,
+        "height": 0.4,
+        "depth": 0.65
+      },
+      "id": "79abfcc5-8e56-46ac-be5b-ef7f5eaf5f67",
+      "material": {
+        "type": "basic",
+        "color": "#5b5378",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Guijarro 4",
+      "order": 17.347879013398853,
+      "parentId": "51d3c8ac-2590-4d99-b5a5-018ff6bff2c0",
+      "position": [
+        -1.1,
+        0.3,
+        9.2
+      ],
+      "rotation": [
+        -0.031542107087391455,
+        -0.2568898471879887,
+        0.11771674622792329,
+        0.9587259616541788
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "7ef1327c-a6c4-4510-a5b5-1d148edb50d0": {
+      "components": {},
+      "geometry": null,
+      "id": "7ef1327c-a6c4-4510-a5b5-1d148edb50d0",
+      "light": {
+        "type": "directional",
+        "intensity": 1.2,
+        "color": "#a8b8ff"
+      },
+      "material": null,
+      "name": "Luz direccional",
+      "order": 2.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        20,
+        50,
+        10
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "8018c954-5351-4606-87df-bb0bbb8a8aac": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 2.8,
+        "height": 2.2,
+        "depth": 0.8
+      },
+      "id": "8018c954-5351-4606-87df-bb0bbb8a8aac",
+      "material": {
+        "type": "basic",
+        "color": "#3a3450",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Pila 2",
+      "order": 10.672017908600196,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        0,
+        -0.5,
+        1.25
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "81e27a03-94a8-473f-9655-1e75c5332453": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "cone",
+        "radius": 0.5,
+        "height": 1
+      },
+      "id": "81e27a03-94a8-473f-9655-1e75c5332453",
+      "material": {
+        "type": "basic",
+        "color": "#1e1730",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Chapitel T-I",
+      "order": 19.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        -3.1,
+        9.4,
+        -11.1
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        2.6,
+        2.6,
+        2.6
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "8553e581-5fe9-4a3e-9f69-05ddebcd4602": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "cylinder",
+        "radius": 0.4,
+        "height": 1
+      },
+      "id": "8553e581-5fe9-4a3e-9f69-05ddebcd4602",
+      "material": {
+        "type": "basic",
+        "color": "#443c5e",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Torre frontal izquierda",
+      "order": 10.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        -3.1,
+        4.1,
+        -4.9
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1.7,
+        7,
+        1.7
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "8592d8d7-8c77-48b4-bd89-8ba5c68f6892": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.48,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "cylinder",
+        "radius": 0.4,
+        "height": 1
+      },
+      "id": "8592d8d7-8c77-48b4-bd89-8ba5c68f6892",
+      "material": {
+        "type": "basic",
+        "color": "#443c5e",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Torre trasera derecha",
+      "order": 9.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        3.1,
+        4.1,
+        -11.1
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1.7,
+        7,
+        1.7
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "8bc4a737-5562-4080-b964-a784571c9d1b": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.08,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 0.3,
+        "height": 1,
+        "depth": 10.5
+      },
+      "id": "8bc4a737-5562-4080-b964-a784571c9d1b",
+      "material": {
+        "type": "basic",
+        "color": "#443c5e",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Puente — pretil izquierdo",
+      "order": 1.6720179086001972,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        -1.15,
+        1.7,
+        1.25
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "8c5cc359-def0-4f62-9180-4364a2d54171": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 1,
+        "height": 1,
+        "depth": 1
+      },
+      "id": "8c5cc359-def0-4f62-9180-4364a2d54171",
+      "material": {
+        "type": "basic",
+        "color": "#3a3450",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Muralla izquierda",
+      "order": 26.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        -3.1,
+        1.9,
+        -8
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.45,
+        2.6,
+        6.2
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "8fd5cde8-3ba0-4641-8b5f-296169508f19": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.482,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 0.7,
+        "height": 0.4,
+        "depth": 0.6
+      },
+      "id": "8fd5cde8-3ba0-4641-8b5f-296169508f19",
+      "material": {
+        "type": "basic",
+        "color": "#5b5378",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Guijarro 8",
+      "order": 21.347879013398853,
+      "parentId": "51d3c8ac-2590-4d99-b5a5-018ff6bff2c0",
+      "position": [
+        0.6,
+        -0.85,
+        16
+      ],
+      "rotation": [
+        0.019944971064355024,
+        -0.18976372373519743,
+        -0.10260798098753927,
+        0.9762497270273904
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "9333c5a6-2b04-48cb-9e7c-f9fa5456df23": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "cone",
+        "radius": 0.5,
+        "height": 1
+      },
+      "id": "9333c5a6-2b04-48cb-9e7c-f9fa5456df23",
+      "material": {
+        "type": "basic",
+        "color": "#241a38",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Pináculo puerta der",
+      "order": 28.672017908600196,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        1.55,
+        5.6,
+        5.9
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.9,
+        1,
+        0.9
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "94515637-0bf1-4eee-9631-460ac3af2692": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.402,
+            "demora": 0.4,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 0.42,
+        "height": 0.4,
+        "depth": 0.6
+      },
+      "id": "94515637-0bf1-4eee-9631-460ac3af2692",
+      "material": {
+        "type": "basic",
+        "color": "#453e5c",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Merlón puente 3",
+      "order": 5.672017908600197,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        -1.15,
+        2.4,
+        4.5
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "9827433c-cab5-4fae-b157-490527d82474": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.524,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 0.7,
+        "height": 0.45,
+        "depth": 0.7
+      },
+      "id": "9827433c-cab5-4fae-b157-490527d82474",
+      "material": {
+        "type": "basic",
+        "color": "#5b5378",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Guijarro 3",
+      "order": 16.347879013398853,
+      "parentId": "51d3c8ac-2590-4d99-b5a5-018ff6bff2c0",
+      "position": [
+        2,
+        0.45,
+        8.6
+      ],
+      "rotation": [
+        -0.029809019626209157,
+        0.34071865342161006,
+        -0.08189960831908934,
+        0.9361168066628592
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "a2cf45d1-c2a8-4944-abff-0324efc357ea": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 1,
+        "height": 1,
+        "depth": 1
+      },
+      "id": "a2cf45d1-c2a8-4944-abff-0324efc357ea",
+      "material": {
+        "type": "basic",
+        "color": "#554d70",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Dovela A1",
+      "order": 12.672017908600196,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        0,
+        -0.21,
+        0.97
+      ],
+      "rotation": [
+        0.5591929034707469,
+        0,
+        0,
+        0.8290375725550416
+      ],
+      "scale": [
+        2.5,
+        0.5,
+        0.65
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "a304eac9-e16f-42d7-b98f-b8f79cf9937e": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.32,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 2.7,
+        "height": 0.4,
+        "depth": 1.7
+      },
+      "id": "a304eac9-e16f-42d7-b98f-b8f79cf9937e",
+      "material": {
+        "type": "basic",
+        "color": "#4a4364",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Losa camino 5",
+      "order": 4.347879013398854,
+      "parentId": "51d3c8ac-2590-4d99-b5a5-018ff6bff2c0",
+      "position": [
+        1.4,
+        -0.25,
+        12.4
+      ],
+      "rotation": [
+        0,
+        0.0697564737441253,
+        0,
+        0.9975640502598242
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "a32984de-d199-4cd9-80ee-50062aa58c1d": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.55,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 1,
+        "height": 1,
+        "depth": 1
+      },
+      "id": "a32984de-d199-4cd9-80ee-50062aa58c1d",
+      "material": {
+        "type": "basic",
+        "color": "#8b5cf6",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Ventana alta izquierda",
+      "order": 38.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        -0.75,
+        6.9,
+        -6.44
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.34,
+        1.5,
+        0.1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "a36595e0-beb1-478f-9985-ddaaeb956323": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "cylinder",
+        "radius": 0.4,
+        "height": 1
+      },
+      "id": "a36595e0-beb1-478f-9985-ddaaeb956323",
+      "material": {
+        "type": "basic",
+        "color": "#2a2438",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Corona torre F-I",
+      "order": 14.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        -3.1,
+        7.85,
+        -4.9
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        2.2,
+        0.5,
+        2.2
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "a7757047-156b-4308-99d2-68997d2165ec": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 1,
+        "height": 0.85,
+        "depth": 0.95
+      },
+      "id": "a7757047-156b-4308-99d2-68997d2165ec",
+      "material": {
+        "type": "basic",
+        "color": "#453e5c",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Roca umbral derecha",
+      "order": 13.347879013398854,
+      "parentId": "51d3c8ac-2590-4d99-b5a5-018ff6bff2c0",
+      "position": [
+        2,
+        0.5,
+        6.3
+      ],
+      "rotation": [
+        0.012661213742314237,
+        -0.24159035004964077,
+        -0.05078135467309596,
+        0.9689659697053497
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "ace99c23-0331-4fda-85ea-ea381916b92a": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 2.6,
+        "height": 0.6,
+        "depth": 10.5
+      },
+      "id": "ace99c23-0331-4fda-85ea-ea381916b92a",
+      "material": {
+        "type": "basic",
+        "color": "#4a4364",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Puente — tablero",
+      "order": 0.6720179086001971,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        0,
+        0.9,
+        1.25
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "b0049f5e-385c-4edc-a624-0ac2c77469ba": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.637,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 0.9,
+        "height": 0.55,
+        "depth": 0.8
+      },
+      "id": "b0049f5e-385c-4edc-a624-0ac2c77469ba",
+      "material": {
+        "type": "basic",
+        "color": "#5b5378",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Guijarro 2",
+      "order": 15.347879013398854,
+      "parentId": "51d3c8ac-2590-4d99-b5a5-018ff6bff2c0",
+      "position": [
+        1.6,
+        0.7,
+        7.2
+      ],
+      "rotation": [
+        -0.012273706667725688,
+        -0.15595222979187517,
+        0.07749313406403023,
+        0.9846436270654023
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "b7e20b59-4c8d-47d9-9c26-8c9d4c9857f1": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.402,
+            "demora": 0.48,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 0.42,
+        "height": 0.4,
+        "depth": 0.6
+      },
+      "id": "b7e20b59-4c8d-47d9-9c26-8c9d4c9857f1",
+      "material": {
+        "type": "basic",
+        "color": "#453e5c",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Merlón puente 4",
+      "order": 6.672017908600197,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        1.15,
+        2.4,
+        -2.5
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "b8603507-37be-4295-a703-2b13ef2e0b21": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "cone",
+        "radius": 0.5,
+        "height": 1
+      },
+      "id": "b8603507-37be-4295-a703-2b13ef2e0b21",
+      "material": {
+        "type": "basic",
+        "color": "#241a38",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Pináculo puerta izq",
+      "order": 27.672017908600196,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        -1.55,
+        5.6,
+        5.9
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.9,
+        1,
+        0.9
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "bc08b396-ee52-4945-9e9e-a9145ce03bf7": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.402,
+            "demora": 0.24,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 0.42,
+        "height": 0.4,
+        "depth": 0.6
+      },
+      "id": "bc08b396-ee52-4945-9e9e-a9145ce03bf7",
+      "material": {
+        "type": "basic",
+        "color": "#453e5c",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Merlón puente 1",
+      "order": 3.672017908600197,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        -1.15,
+        2.4,
+        -2.5
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "be0c41d9-3b18-41ae-830d-a19bee525797": {
+      "components": {},
+      "geometry": null,
+      "id": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "material": null,
+      "name": "Puente medieval",
+      "order": 41.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "be7f2b18-9dab-4e1a-bac0-e2bd48f94feb": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 2,
+        "height": 1,
+        "depth": 1.4
+      },
+      "id": "be7f2b18-9dab-4e1a-bac0-e2bd48f94feb",
+      "material": {
+        "type": "basic",
+        "color": "#2f2941",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Roca soporte 4",
+      "order": 11.347879013398854,
+      "parentId": "51d3c8ac-2590-4d99-b5a5-018ff6bff2c0",
+      "position": [
+        2.15,
+        -1.1,
+        16.9
+      ],
+      "rotation": [
+        0,
+        -0.08715574274765817,
+        0,
+        0.9961946980917455
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "bea6765e-fe40-4dc9-add9-c7d3467fa88f": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 2.2,
+        "height": 1.7,
+        "depth": 1.6
+      },
+      "id": "bea6765e-fe40-4dc9-add9-c7d3467fa88f",
+      "material": {
+        "type": "basic",
+        "color": "#2f2941",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Roca soporte 1",
+      "order": 8.347879013398854,
+      "parentId": "51d3c8ac-2590-4d99-b5a5-018ff6bff2c0",
+      "position": [
+        0.45,
+        -0.6,
+        8.6
+      ],
+      "rotation": [
+        0,
+        0.1908089953765448,
+        0,
+        0.981627183447664
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "c81e2504-34bf-4ad1-8706-09ab822fdef9": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.397,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 1,
+        "height": 1,
+        "depth": 1
+      },
+      "id": "c81e2504-34bf-4ad1-8706-09ab822fdef9",
+      "material": {
+        "type": "basic",
+        "color": "#453e5c",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Merlón 1",
+      "order": 28.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        -2.6,
+        3.475,
+        -4.9
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.4,
+        0.55,
+        0.45
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "c8277f0d-9bbe-4389-bf68-1211ac9f854d": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.24,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 2.8,
+        "height": 0.4,
+        "depth": 1.7
+      },
+      "id": "c8277f0d-9bbe-4389-bf68-1211ac9f854d",
+      "material": {
+        "type": "basic",
+        "color": "#514a6b",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Losa camino 4",
+      "order": 3.3478790133988547,
+      "parentId": "51d3c8ac-2590-4d99-b5a5-018ff6bff2c0",
+      "position": [
+        1.05,
+        0.02,
+        10.9
+      ],
+      "rotation": [
+        0,
+        0.10452846326765347,
+        0,
+        0.9945218953682733
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "c9146873-c343-4905-b3c7-505b408776a8": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "cylinder",
+        "radius": 0.4,
+        "height": 1
+      },
+      "id": "c9146873-c343-4905-b3c7-505b408776a8",
+      "material": {
+        "type": "basic",
+        "color": "#2a2438",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Corona torre T-I",
+      "order": 15.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        -3.1,
+        7.85,
+        -11.1
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        2.2,
+        0.5,
+        2.2
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "c9ffa937-bcec-4714-b506-0317cf6ef2d5": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 1,
+        "height": 1,
+        "depth": 1
+      },
+      "id": "c9ffa937-bcec-4714-b506-0317cf6ef2d5",
+      "material": {
+        "type": "basic",
+        "color": "#554d70",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Clave arco A",
+      "order": 15.672017908600196,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        0,
+        0.43,
+        -0.22
+      ],
+      "rotation": [
+        -0.10452846326765347,
+        0,
+        0,
+        0.9945218953682733
+      ],
+      "scale": [
+        2.5,
+        0.5,
+        0.65
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "cc1bb6fd-0532-4d1a-9aec-5264e04d9ba6": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "cone",
+        "radius": 0.5,
+        "height": 1
+      },
+      "id": "cc1bb6fd-0532-4d1a-9aec-5264e04d9ba6",
+      "material": {
+        "type": "basic",
+        "color": "#1e1730",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Chapitel F-I",
+      "order": 18.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        -3.1,
+        9.4,
+        -4.9
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        2.6,
+        2.6,
+        2.6
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "cc67556a-7f5a-4f5f-bb9e-113f17c13f3d": {
+      "components": {},
+      "geometry": null,
+      "id": "cc67556a-7f5a-4f5f-bb9e-113f17c13f3d",
+      "light": {
+        "type": "point",
+        "intensity": 2.4,
+        "color": "#ffb063"
+      },
+      "material": null,
+      "name": "Farol del puente",
+      "order": 30.672017908600196,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        0,
+        3.6,
+        5.6
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "cf5519db-d466-43bd-bc50-ab84e3ae7140": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.737,
+            "demora": 0.32,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "cone",
+        "radius": 0.5,
+        "height": 1
+      },
+      "id": "cf5519db-d466-43bd-bc50-ab84e3ae7140",
+      "material": {
+        "type": "basic",
+        "color": "#c9a86a",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Torreón — aguja",
+      "order": 7.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        0,
+        12.3,
+        -8
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.4,
+        1.8,
+        0.4
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "d014aba5-6d13-4280-85ad-0af3d8da730b": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.482,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 1,
+        "height": 1,
+        "depth": 1
+      },
+      "id": "d014aba5-6d13-4280-85ad-0af3d8da730b",
+      "material": {
+        "type": "basic",
+        "color": "#8b5cf6",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Vitral derecho",
+      "order": 37.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        1.05,
+        4.4,
+        -6.14
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.3,
+        1.3,
+        0.1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "d034eb7a-79ec-4afe-adf7-ca115d7288a0": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 1,
+        "height": 1,
+        "depth": 1
+      },
+      "id": "d034eb7a-79ec-4afe-adf7-ca115d7288a0",
+      "material": {
+        "type": "basic",
+        "color": "#241f33",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Base de roca",
+      "order": 3.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        0,
+        0.3,
+        -8
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        9,
+        0.6,
+        9
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "d97306a7-ba1f-4f1e-872f-d4926d793e2e": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 2.8,
+        "height": 2.2,
+        "depth": 0.8
+      },
+      "id": "d97306a7-ba1f-4f1e-872f-d4926d793e2e",
+      "material": {
+        "type": "basic",
+        "color": "#3a3450",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Pila 3",
+      "order": 11.672017908600196,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        0,
+        -0.5,
+        3.7
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "da3fd35d-580a-4d5c-bb67-e37b7396f418": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.402,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 0.42,
+        "height": 0.4,
+        "depth": 0.6
+      },
+      "id": "da3fd35d-580a-4d5c-bb67-e37b7396f418",
+      "material": {
+        "type": "basic",
+        "color": "#453e5c",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Merlón puente 5",
+      "order": 7.672017908600197,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        1.15,
+        2.4,
+        1
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "dc0712d3-9df8-4a7f-be3c-1ee66d9d3abf": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": true,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 4,
+        "height": 4
+      },
+      "id": "dc0712d3-9df8-4a7f-be3c-1ee66d9d3abf",
+      "material": {
+        "type": "basic",
+        "color": "#ffffff",
+        "roughness": 0.85,
+        "metalness": 0,
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/0604ad0b4e8b99a95992ad73e42386ba.jpg"
+        },
+        "inreMaterial": "0604ad0b4e8b99a95992ad73e42386ba"
+      },
+      "name": "Cauce del puente",
+      "order": 29.672017908600196,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        0,
+        -1.6,
+        1
+      ],
+      "rotation": [
+        -0.7071067811865475,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "scale": [
+        30,
+        30,
+        30
+      ],
+      "shadow": {
+        "receiveShadow": true
+      }
+    },
+    "dc7c32c4-a488-41be-a8b9-8bdeb3eed633": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.402,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 0.42,
+        "height": 0.4,
+        "depth": 0.6
+      },
+      "id": "dc7c32c4-a488-41be-a8b9-8bdeb3eed633",
+      "material": {
+        "type": "basic",
+        "color": "#453e5c",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Merlón puente 6",
+      "order": 8.672017908600196,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        1.15,
+        2.4,
+        4.5
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "dd01aa42-b2df-43f0-b91a-95dd68dbe4cf": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "cylinder",
+        "radius": 0.4,
+        "height": 1
+      },
+      "id": "dd01aa42-b2df-43f0-b91a-95dd68dbe4cf",
+      "material": {
+        "type": "basic",
+        "color": "#2a2438",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Corona torre F-D",
+      "order": 12.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        3.1,
+        7.85,
+        -4.9
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        2.2,
+        0.5,
+        2.2
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "e32be9df-1e3b-41b4-b769-2ff246e432e4": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 1,
+        "height": 1,
+        "depth": 1
+      },
+      "id": "e32be9df-1e3b-41b4-b769-2ff246e432e4",
+      "material": {
+        "type": "basic",
+        "color": "#554d70",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Dovela B3",
+      "order": 20.672017908600196,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        0,
+        0.43,
+        2.72
+      ],
+      "rotation": [
+        0.10452846326765347,
+        0,
+        0,
+        0.9945218953682733
+      ],
+      "scale": [
+        2.5,
+        0.5,
+        0.65
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "e8e1afe1-8cc3-4087-ae05-ef3b52166831": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "cylinder",
+        "radius": 0.4,
+        "height": 1
+      },
+      "id": "e8e1afe1-8cc3-4087-ae05-ef3b52166831",
+      "material": {
+        "type": "basic",
+        "color": "#443c5e",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Torre trasera izquierda",
+      "order": 11.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        -3.1,
+        4.1,
+        -11.1
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1.7,
+        7,
+        1.7
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "e9969217-6b91-491b-b6ad-f66f6f9cb541": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 3.6,
+        "height": 0.9,
+        "depth": 1
+      },
+      "id": "e9969217-6b91-491b-b6ad-f66f6f9cb541",
+      "material": {
+        "type": "basic",
+        "color": "#4a4364",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Dintel puerta puente",
+      "order": 26.672017908600196,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        0,
+        4.65,
+        5.9
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "e9eff606-1aee-4078-9f0d-80092da6001b": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 1.1,
+        "height": 0.9,
+        "depth": 1
+      },
+      "id": "e9eff606-1aee-4078-9f0d-80092da6001b",
+      "material": {
+        "type": "basic",
+        "color": "#453e5c",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Roca umbral izquierda",
+      "order": 12.347879013398854,
+      "parentId": "51d3c8ac-2590-4d99-b5a5-018ff6bff2c0",
+      "position": [
+        -1.9,
+        0.55,
+        6.2
+      ],
+      "rotation": [
+        0.020976176207826037,
+        0.2999732952901013,
+        0.06652793143419594,
+        0.9513937441898506
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "ea1fd82c-1ff5-43c5-85d2-2798d126f868": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 1,
+        "height": 1,
+        "depth": 1
+      },
+      "id": "ea1fd82c-1ff5-43c5-85d2-2798d126f868",
+      "material": {
+        "type": "basic",
+        "color": "#554d70",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Dovela B1",
+      "order": 18.672017908600196,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        0,
+        -0.21,
+        3.47
+      ],
+      "rotation": [
+        0.5591929034707469,
+        0,
+        0,
+        0.8290375725550416
+      ],
+      "scale": [
+        2.5,
+        0.5,
+        0.65
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "ec45c5da-0fe5-4877-b7e6-85764f72aa2c": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.24,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "cone",
+        "radius": 0.5,
+        "height": 1
+      },
+      "id": "ec45c5da-0fe5-4877-b7e6-85764f72aa2c",
+      "material": {
+        "type": "basic",
+        "color": "#241a38",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Torreón — tejado",
+      "order": 6.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        0,
+        9.7,
+        -8
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        5.2,
+        3.4,
+        5.2
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "f010e9e1-e793-49ac-83e2-cf71dc6caa43": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 1,
+        "height": 1,
+        "depth": 1
+      },
+      "id": "f010e9e1-e793-49ac-83e2-cf71dc6caa43",
+      "material": {
+        "type": "basic",
+        "color": "#554d70",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Dovela B6",
+      "order": 23.672017908600196,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        0,
+        -0.21,
+        1.53
+      ],
+      "rotation": [
+        -0.5591929034707469,
+        0,
+        0,
+        0.8290375725550416
+      ],
+      "scale": [
+        2.5,
+        0.5,
+        0.65
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "f4316724-4d91-49bd-9dae-812a6453c401": {
+      "components": {
+        "93f085a2-24dc-4ef3-b145-76e33700ee6d": {
+          "id": "93f085a2-24dc-4ef3-b145-76e33700ee6d",
+          "name": "position-animation",
+          "parameters": {
+            "autoFrom": true,
+            "duration": 7000,
+            "fromZ": -14,
+            "toZ": 14
+          }
+        },
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "id": "f4316724-4d91-49bd-9dae-812a6453c401",
+      "material": {
+        "type": "basic",
+        "color": "#b6efff",
+        "roughness": 0.1,
+        "metalness": 0.4
+      },
+      "name": "Corriente 5",
+      "order": 36.672017908600196,
+      "parentId": "be0c41d9-3b18-41ae-830d-a19bee525797",
+      "position": [
+        -4.6,
+        -1.44,
+        5
+      ],
+      "rotation": [
+        -0.7071067811865475,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "scale": [
+        0.25,
+        3.5,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "f4828903-c505-49be-b89e-9df47cf427f4": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 2.8,
+        "height": 0.4,
+        "depth": 1.7
+      },
+      "id": "f4828903-c505-49be-b89e-9df47cf427f4",
+      "material": {
+        "type": "basic",
+        "color": "#4a4364",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Losa camino 1",
+      "order": 0.34787901339885463,
+      "parentId": "51d3c8ac-2590-4d99-b5a5-018ff6bff2c0",
+      "position": [
+        0,
+        0.85,
+        6.4
+      ],
+      "rotation": [
+        0,
+        0.03489949670250097,
+        0,
+        0.9993908270190958
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "f5ca396c-af79-4536-b98d-0a0cb297c12c": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "circle",
+        "radius": 0.6
+      },
+      "id": "f5ca396c-af79-4536-b98d-0a0cb297c12c",
+      "material": {
+        "type": "basic",
+        "color": "#b26bff",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Rosetón",
+      "order": 35.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        0,
+        4.4,
+        -6.14
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1.2,
+        1.2,
+        1
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "f5cef1db-a8d0-456c-a404-e26ee6e48fdc": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.394,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 1,
+        "height": 1,
+        "depth": 1
+      },
+      "id": "f5cef1db-a8d0-456c-a404-e26ee6e48fdc",
+      "material": {
+        "type": "basic",
+        "color": "#4a4364",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Arco apuntado Der",
+      "order": 34.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        0.4,
+        3.05,
+        -4.72
+      ],
+      "rotation": [
+        0,
+        0,
+        -0.27563735581699916,
+        0.9612616959383189
+      ],
+      "scale": [
+        0.95,
+        0.2,
+        0.24
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "fb104a34-aa51-448c-99fe-35bbb3f631f7": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 1,
+        "height": 1,
+        "depth": 1
+      },
+      "id": "fb104a34-aa51-448c-99fe-35bbb3f631f7",
+      "material": {
+        "type": "basic",
+        "color": "#3a3450",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Muralla frontal",
+      "order": 24.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        0,
+        1.9,
+        -4.9
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        6.2,
+        2.6,
+        0.45
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "fe24025f-13bc-4ce1-a0a6-bec765e36840": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.394,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 1,
+        "height": 1,
+        "depth": 1
+      },
+      "id": "fe24025f-13bc-4ce1-a0a6-bec765e36840",
+      "material": {
+        "type": "basic",
+        "color": "#4a4364",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Arco apuntado Izq",
+      "order": 33.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        -0.4,
+        3.05,
+        -4.72
+      ],
+      "rotation": [
+        0,
+        0,
+        0.27563735581699916,
+        0.9612616959383189
+      ],
+      "scale": [
+        0.95,
+        0.2,
+        0.24
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "fe484354-5d20-46ad-bb3f-d3ad48f235ff": {
+      "camera": {
+        "type": "perspective",
+        "fov": 60,
+        "nearClip": 0.01,
+        "farClip": 1000,
+        "xr": {
+          "xrCameraType": "world",
+          "phone": "AR",
+          "desktop": "disabled",
+          "headset": "disabled",
+          "direction": "back"
+        }
+      },
+      "components": {},
+      "geometry": null,
+      "id": "fe484354-5d20-46ad-bb3f-d3ad48f235ff",
+      "material": null,
+      "name": "Cámara",
+      "order": 0.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "feb05fb0-cb1f-4dca-8408-5b391a5bf6db": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 1,
+        "height": 1,
+        "depth": 1
+      },
+      "id": "feb05fb0-cb1f-4dca-8408-5b391a5bf6db",
+      "material": {
+        "type": "basic",
+        "color": "#3a3450",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Muralla trasera",
+      "order": 25.5,
+      "parentId": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "position": [
+        0,
+        1.9,
+        -11.1
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        6.2,
+        2.6,
+        0.45
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    }
+  },
+  "spaces": {
+    "8238ead1-292d-49a0-bdc0-5e7971dff84c": {
+      "activeCamera": "fe484354-5d20-46ad-bb3f-d3ad48f235ff",
+      "id": "8238ead1-292d-49a0-bdc0-5e7971dff84c",
+      "name": "Espacio principal"
+    }
+  }
+}
